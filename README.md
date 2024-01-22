@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on innvoative projects
    as well as beginner friendly projects 
 -  
-- 😄 Pronouns: He/Him/His
+-  🧔🏻Pronouns: He/Him/His
   
 
 <!---
