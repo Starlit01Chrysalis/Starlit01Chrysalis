@@ -2,7 +2,7 @@
 -  I’m interested in AI/ML
 -  I’m currently learning c language, python
 -  I’m looking to collaborate on innvoative projects
--  as well as beginner friendly projects 
+   as well as beginner friendly projects 
 -  
 - 😄 Pronouns: He/Him/His
   
