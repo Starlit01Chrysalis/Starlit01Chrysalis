@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saquib 
 -  I’m interested in AI/ML
--  I’m currently learning c language, python
+-  I’m currently learning dsa
 -  I’m looking to collaborate on innvoative projects
    as well as beginner friendly projects 
 -  
